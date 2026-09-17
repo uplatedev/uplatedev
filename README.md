@@ -24,7 +24,7 @@ A long-term game project focused on responsive movement, physical interaction an
 
 ---
 
-## About Up Late
+## About being Up Late
 
 Up Late is where I build the things I keep thinking about after I should probably have gone to bed.
 
